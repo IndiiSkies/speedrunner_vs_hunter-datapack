@@ -1,0 +1,1 @@
+execute as @p at @s if entity @a[team=Hunter,nbt={SelectedItem:{id:"minecraft:compass"}}] run execute as @a[team=Speedrunner] at @a[team=Speedrunner] run setworldspawn
