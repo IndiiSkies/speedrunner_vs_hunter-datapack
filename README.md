@@ -4,7 +4,7 @@ minecraft datapack
 
 Custom coded by WillZGames/WillZArts & IndiiSkies
 
-prob inspired by dream
+prob inspired by dream during a time when this event was popular and there was no plugin for it.
 
 tested Minecraft version 1.16.4
 
