@@ -1,0 +1,7 @@
+{
+	"values":[
+		"player_tracking:speedrunner_pos",
+		"player_tracking:tracking_msg",
+		"player_tracking:death_check"
+	]
+}
