@@ -20,10 +20,10 @@ What does it do?
 2. Checks if the tag "hunter" still exist.
 
 Usage: 
-1. Add the datapack to the world 
-2. /function player_tracking:setup (Initialize the world by defining the teams)
-3. /team join Speedrunner or /team join Hunter Result: [Player: Added ItzFellow to team [Speedrunner]  or [Player: Added ItzFellow to team [Hunter] 
-4. type /function #minecraft:tick Result:  [IndiiSkies: Executed 7 commands from 3 functions] (starts tracking the location of hunter)
-5. type /function #minecraft:reset to reset the game
+1. Add the datapack to the world dir.
+2. /function player_tracking:setup (Initialize the world by defining the teams) Result: [IndiiSkies: Executed 6 commands from function 'player_tracking:setup'] Expect it to kill you to return you to the world spawn (0,0,0). to change this location do /setworldspawn 
+3. Now we need to define the teams. Do /team join Speedrunner or /team join Hunter Result: [Player: Added ItzFellow to team [Speedrunner]  or [Player: Added ItzFellow to team [Hunter]  
+4. To start tracking the location of hunter type /function #minecraft:tick Result:  [IndiiSkies: Executed 7 commands from 3 functions] ()
+5. If you want to reset the game, type /function #minecraft:reset.
 
 Have fun! 
